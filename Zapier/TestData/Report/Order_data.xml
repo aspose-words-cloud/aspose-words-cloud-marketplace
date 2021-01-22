@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Order Date="1" Number="2" Adress="3" Suburb="4" City="5" Phonenumber="6">
-  <Item Name="7" Price="8" Quantity="9"/>
-</Order>
