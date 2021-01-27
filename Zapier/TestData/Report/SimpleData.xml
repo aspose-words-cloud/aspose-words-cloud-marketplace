@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customer>
+	<FullName>James Bond</FullName>
+	<Company>MI5 Headquarters</Company>
+	<Address>Milbank</Address>
+	<Address2></Address2>
+	<City>London</City>
+</customer>
